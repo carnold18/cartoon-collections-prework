@@ -4,7 +4,7 @@ end
 
 def summon_captain_planet(array)
   array.each do |i|
-    i.capitalize<<"!"
+    puts i.capitalize<<"!"
   end
 end
 
